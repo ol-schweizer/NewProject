@@ -1,0 +1,2 @@
+You can find all needed instructions for developers how to use branch "development"
+
